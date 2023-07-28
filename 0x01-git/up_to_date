@@ -1,0 +1,4 @@
+git push
+git add .
+git branch -a
+git commit -m 'your message'
